@@ -86,21 +86,17 @@ Copy code
 
 1. Criando uma pasta:
    Utilizando o comando:
-MKdir nome_pasta
+
 
 markdown
-Copy code
+
 
 2. Inicializando o respectivo repositório:
-git init
 
-arduino
-Copy code
 
 3. Conectar a pasta ao repositório do Servidor remoto:
 git remote add origin URL
 
-perl
-Copy code
+
 
 ### Segue abaixo alguns exemplos realizados por mim:
