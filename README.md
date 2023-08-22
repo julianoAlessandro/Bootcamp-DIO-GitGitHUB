@@ -28,20 +28,4 @@ Registrando meus estudos sobre git e github nessa  jornada de aprendizado do Boo
   Responsável por listar todos os componentes dentro da minha pasta.
 
 - **ls ~/.SSH:**
-  Verificar se existe uma chave SSH.
-
-- **Chave SSH:**
-  Responsável por transmitir informações seguras do Servidor para a sua máquina de maneira criptografada, evitando perigos durante essa transição.
-
-## Transformando um diretório local que não está sob controle de Versão em um repositório Git:
-
-1. Criando uma pasta:
-   Utilizando o comando:
-   MKdir nome_pasta
-   
-2. Inicializando o respectivo repositório:
-git init
-
-3. Conectar a pasta ao repositório do Servidor remoto:
-git remote add origin URL
 
