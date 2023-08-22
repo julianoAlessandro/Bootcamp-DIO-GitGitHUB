@@ -84,19 +84,9 @@ Copy code
 
 ## Transformando um diretório local que não está sob controle de Versão em um repositório Git:
 
-1. Criando uma pasta:
-   Utilizando o comando:
-
-
-markdown
-
-
-2. Inicializando o respectivo repositório:
-
-
-3. Conectar a pasta ao repositório do Servidor remoto:
+1. Criando uma pasta: MKdir nome_pasta
+2. Entrando na pasta especifica: CD nome_pasta/
+3. Inicializando o respectivo repositório: git init
+4. Conectar a pasta ao repositório do Servidor remoto:
 git remote add origin URL
-
-
-
 ### Segue abaixo alguns exemplos realizados por mim:
