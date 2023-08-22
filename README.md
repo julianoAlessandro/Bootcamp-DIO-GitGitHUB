@@ -28,4 +28,6 @@ Registrando meus estudos sobre git e github nessa  jornada de aprendizado do Boo
   Responsável por listar todos os componentes dentro da minha pasta.
 
 - **ls ~/.SSH:**
+<img src= "https://github.com/julianoAlessandro/Bootcamp-DIO-GitGitHUB/assets/111141842/ba677f00-d83b-43ed-8184-512320deafc1"><br>
+<img src="https://github.com/julianoAlessandro/Bootcamp-DIO-GitGitHUB/assets/111141842/2cc7ebe6-f746-40ba-b6c4-d2614a3a9f3e">
 
